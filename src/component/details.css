@@ -1,0 +1,12 @@
+.details{
+    background-color:white;
+    color: black;
+    font-size: xx-large;
+    border: 0.1rem solid black;
+    display: flex;
+    padding: 5rem;
+}
+h1{
+    color:red;
+    
+}
